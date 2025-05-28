@@ -63,7 +63,6 @@ def extension__tts_generation_webui():
     return {
         "package_name": "extension_vocos",
         "name": "Vocos",
-        "version": "0.0.1",
         "requirements": "git+https://github.com/rsxdalv/extension_vocos@main",
         "description": "Vocos is a neural audio codec for high-quality audio compression and reconstruction",
         "extension_type": "interface",
