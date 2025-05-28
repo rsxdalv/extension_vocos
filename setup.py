@@ -3,7 +3,7 @@ import setuptools
 setuptools.setup(
     name="extension_vocos",
     packages=setuptools.find_namespace_packages(),
-    version="0.0.1",
+    version="0.0.2",
     author="rsxdalv",
     description="Vocos is a neural audio codec for high-quality audio compression and reconstruction",
     url="https://github.com/rsxdalv/extension_vocos",
