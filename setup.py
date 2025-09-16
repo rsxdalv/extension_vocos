@@ -1,12 +1,12 @@
 import setuptools
 
 setuptools.setup(
-    name="extension_vocos",
+    name="tts_webui_extension.vocos",
     packages=setuptools.find_namespace_packages(),
     version="0.0.2",
     author="rsxdalv",
     description="Vocos is a neural audio codec for high-quality audio compression and reconstruction",
-    url="https://github.com/rsxdalv/extension_vocos",
+    url="https://github.com/rsxdalv/tts_webui_extension.vocos",
     project_urls={},
     scripts=[],
     install_requires=[
@@ -18,3 +18,4 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
 )
+
